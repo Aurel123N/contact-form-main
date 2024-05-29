@@ -1,0 +1,94 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(148, 38%, 91%);
+    font-family: "Karla";
+    font-weight: 400;
+    height: 100vh;
+    flex-direction: column;
+}
+
+body div {
+    background-color: white;
+    width: 50%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+h2 span {
+    text-align: left;
+}
+
+.inline-row {
+    display: flex;
+    width: 95%;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.petit {
+    height: 35px;
+    width: 100%;
+    border-color: rgb(201, 193, 193);
+    border-radius: 20%;
+}
+
+.grand {
+    height: 35px;
+}
+
+.azaza {
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+}
+
+.ben {
+    height: 50px;
+}
+
+.qsdf {
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+}
+
+.wxcv{
+    display: flex;
+    width: 95%;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    gap: 10px;
+}
+.bouton{  
+    color:white; 
+    background-color: hsl(186, 15%, 59%);
+    height: 40px;
+    width: 100%;
+    justify-content: center;
+    border-bottom: 0;
+}
+
+
+
+
+.attribution {
+    width: 95%;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+

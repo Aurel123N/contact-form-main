@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  hsl(169, 82%, 27%);
+    font-family: "Karma" sans-serif;
+    height: 100vh;
+}
+
+body div{
+
+}
